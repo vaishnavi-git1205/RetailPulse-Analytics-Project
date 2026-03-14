@@ -1,0 +1,61 @@
+product_id,product_name,category,cost_price,selling_price,price_with_gst,reorder_level,supplier_id,status
+PRD0001,Smartphone,Electronics,27788.85,64210.0,75767.8,17,SUP007,Discontinued
+PRD0002,Laptop,Electronics,5415.05,11900.0,14042.0,34,SUP008,Active
+PRD0003,Tablet,Electronics,23636.73,35900.0,42362.0,40,SUP004,Active
+PRD0004,Headphones,Electronics,29486.15,52450.0,61891.0,5,SUP003,Active
+PRD0005,Smart TV,Electronics,7623.32,13970.0,16484.6,18,SUP013,Active
+PRD0006,Bluetooth Speaker,Electronics,5544.95,13840.0,16331.2,29,SUP009,Discontinued
+PRD0007,Smartwatch,Electronics,14243.98,23390.0,27600.2,40,SUP016,Active
+PRD0008,Webcam,Electronics,7370.51,15840.0,18691.2,8,SUP019,Active
+PRD0009,Power Bank,Electronics,25045.66,60040.0,70847.2,42,SUP016,Active
+PRD0010,Router,Electronics,2927.45,5300.0,6254.0,16,SUP003,Active
+PRD0011,Men's T-Shirt,Apparel,1632.85,3470.0,4094.6,12,SUP019,Active
+PRD0012,Women's Kurti,Apparel,1244.01,3020.0,3563.6,10,SUP014,Active
+PRD0013,Denim Jeans,Apparel,2163.39,4690.0,5534.2,50,SUP011,Active
+PRD0014,Ethnic Saree,Apparel,680.86,1550.0,1829.0,46,SUP010,Discontinued
+PRD0015,Kids Shirt,Apparel,1119.75,1790.0,2112.2,9,SUP001,Discontinued
+PRD0016,Winter Jacket,Apparel,1831.85,3220.0,3799.6,11,SUP003,Active
+PRD0017,Sports Shorts,Apparel,1178.5,2680.0,3162.4,27,SUP003,Active
+PRD0018,Formal Trousers,Apparel,912.54,2040.0,2407.2,39,SUP010,Active
+PRD0019,Leggings,Apparel,1948.35,3440.0,4059.2,47,SUP004,Active
+PRD0020,Men's Kurta,Apparel,1027.05,1540.0,1817.2,40,SUP005,Active
+PRD0021,Basmati Rice 5kg,Grocery,148.22,320.0,377.6,26,SUP007,Active
+PRD0022,Refined Oil 1L,Grocery,251.93,530.0,625.4,8,SUP003,Discontinued
+PRD0023,Whole Wheat Atta 10kg,Grocery,347.11,840.0,991.2,26,SUP005,Active
+PRD0024,Toor Dal 1kg,Grocery,106.51,200.0,236.0,50,SUP014,Active
+PRD0025,Masala Mix 200g,Grocery,109.36,160.0,188.8,49,SUP005,Active
+PRD0026,Biscuit Pack,Grocery,482.79,840.0,991.2,14,SUP014,Active
+PRD0027,Green Tea 100g,Grocery,45.85,90.0,106.2,7,SUP012,Active
+PRD0028,Coffee Powder 200g,Grocery,420.06,700.0,826.0,27,SUP018,Discontinued
+PRD0029,Sugar 1kg,Grocery,606.1,970.0,1144.6,20,SUP006,Active
+PRD0030,Salt 1kg,Grocery,362.62,890.0,1050.2,26,SUP014,Active
+PRD0031,Pressure Cooker,Home & Kitchen,1450.56,2280.0,2690.4,11,SUP013,Active
+PRD0032,Non-Stick Pan,Home & Kitchen,3220.44,6900.0,8142.0,34,SUP012,Active
+PRD0033,Dinner Set,Home & Kitchen,4365.22,6600.0,7788.0,19,SUP001,Active
+PRD0034,Water Bottle,Home & Kitchen,1600.65,3310.0,3905.8,9,SUP009,Active
+PRD0035,Bedsheet Set,Home & Kitchen,2703.5,5200.0,6136.0,39,SUP011,Active
+PRD0036,Towel Pack,Home & Kitchen,760.23,1100.0,1298.0,16,SUP019,Active
+PRD0037,Pillow Cover,Home & Kitchen,289.49,500.0,590.0,27,SUP011,Discontinued
+PRD0038,Curtain Pair,Home & Kitchen,2728.39,4930.0,5817.4,29,SUP019,Active
+PRD0039,Storage Box,Home & Kitchen,1341.67,2190.0,2584.2,5,SUP017,Active
+PRD0040,Chopping Board,Home & Kitchen,1279.82,3040.0,3587.2,47,SUP011,Active
+PRD0041,Face Wash,Beauty,883.52,2020.0,2383.6,24,SUP017,Active
+PRD0042,Moisturiser SPF30,Beauty,1010.65,2030.0,2395.4,49,SUP010,Active
+PRD0043,Shampoo 400ml,Beauty,395.66,660.0,778.8,29,SUP006,Active
+PRD0044,Body Lotion,Beauty,832.15,1280.0,1510.4,24,SUP010,Active
+PRD0045,Sunscreen SPF50,Beauty,774.89,1350.0,1593.0,46,SUP011,Discontinued
+PRD0046,Lip Balm,Beauty,831.71,1380.0,1628.4,37,SUP016,Active
+PRD0047,Kajal,Beauty,975.12,2010.0,2371.8,47,SUP020,Active
+PRD0048,Foundation,Beauty,253.67,370.0,436.6,20,SUP010,Active
+PRD0049,Nail Paint,Beauty,1083.86,2440.0,2879.2,7,SUP008,Discontinued
+PRD0050,Serum,Beauty,1179.12,1870.0,2206.6,34,SUP014,Active
+PRD0051,Yoga Mat,Sports,2251.4,4370.0,5156.6,30,SUP008,Active
+PRD0052,Dumbbell Pair 5kg,Sports,1606.65,4000.0,4720.0,11,SUP014,Active
+PRD0053,Cricket Bat,Sports,838.62,1220.0,1439.6,38,SUP015,Active
+PRD0054,Football,Sports,2316.08,3430.0,4047.4,12,SUP015,Active
+PRD0055,Badminton Racket,Sports,2911.33,4850.0,5723.0,40,SUP020,Active
+PRD0056,Resistance Band,Sports,3811.01,5710.0,6737.8,44,SUP017,Discontinued
+PRD0057,Skipping Rope,Sports,2833.1,5020.0,5923.6,15,SUP016,Discontinued
+PRD0058,Water Bottle 1L,Sports,806.09,1700.0,2006.0,45,SUP009,Discontinued
+PRD0059,Running Shoes,Sports,1847.51,3830.0,4519.4,9,SUP010,Active
+PRD0060,Gym Gloves,Sports,882.72,1780.0,2100.4,39,SUP003,Active

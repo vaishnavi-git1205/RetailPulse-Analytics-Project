@@ -1,0 +1,51 @@
+store_id,store_name,city,state,region,address,pincode,size,opening_date
+STR001,FreshMart Mumbai 1,Mumbai,Maharashtra,West,"4 Mall, Mumbai",688389,Large,2019-05-17
+STR002,FreshMart Mumbai 2,Mumbai,Maharashtra,West,"95 High Street, Mumbai",507473,Small,2021-10-17
+STR003,FreshMart Mumbai 3,Mumbai,Maharashtra,West,"76 Mall, Mumbai",842417,Large,2018-03-07
+STR004,FreshMart Mumbai 4,Mumbai,Maharashtra,West,"28 Mall, Mumbai",643962,Small,2020-10-31
+STR005,FreshMart Mumbai 5,Mumbai,Maharashtra,West,"72 Mall, Mumbai",608496,Large,2021-08-23
+STR006,FreshMart Delhi 1,Delhi,Delhi,North,"29 Commercial Hub, Delhi",871029,Large,2021-04-21
+STR007,FreshMart Delhi 2,Delhi,Delhi,North,"98 Mall, Delhi",567414,Medium,2021-11-30
+STR008,FreshMart Delhi 3,Delhi,Delhi,North,"36 Standalone, Delhi",563032,Medium,2019-03-17
+STR009,FreshMart Delhi 4,Delhi,Delhi,North,"12 Mall, Delhi",798382,Medium,2018-07-18
+STR010,FreshMart Delhi 5,Delhi,Delhi,North,"78 Standalone, Delhi",677370,Medium,2018-03-30
+STR011,FreshMart Bangalore 1,Bangalore,Karnataka,South,"69 Commercial Hub, Bangalore",530889,Large,2020-02-15
+STR012,FreshMart Bangalore 2,Bangalore,Karnataka,South,"81 Standalone, Bangalore",779201,Small,2021-03-28
+STR013,FreshMart Bangalore 3,Bangalore,Karnataka,South,"6 Mall, Bangalore",638968,Small,2019-08-16
+STR014,FreshMart Bangalore 4,Bangalore,Karnataka,South,"13 High Street, Bangalore",798591,Small,2019-07-24
+STR015,FreshMart Bangalore 5,Bangalore,Karnataka,South,"21 Standalone, Bangalore",788162,Medium,2019-12-29
+STR016,FreshMart Chennai 1,Chennai,Tamil Nadu,South,"90 Standalone, Chennai",474870,Small,2021-06-01
+STR017,FreshMart Chennai 2,Chennai,Tamil Nadu,South,"69 High Street, Chennai",656702,Large,2018-12-01
+STR018,FreshMart Chennai 3,Chennai,Tamil Nadu,South,"35 Commercial Hub, Chennai",984004,Medium,2019-03-26
+STR019,FreshMart Chennai 4,Chennai,Tamil Nadu,South,"99 Standalone, Chennai",458655,Large,2019-04-15
+STR020,FreshMart Chennai 5,Chennai,Tamil Nadu,South,"52 Standalone, Chennai",680746,Small,2018-05-16
+STR021,FreshMart Hyderabad 1,Hyderabad,Telangana,South,"28 Standalone, Hyderabad",923481,Small,2020-03-21
+STR022,FreshMart Hyderabad 2,Hyderabad,Telangana,South,"19 Commercial Hub, Hyderabad",677746,Large,2018-10-13
+STR023,FreshMart Hyderabad 3,Hyderabad,Telangana,South,"96 Standalone, Hyderabad",849245,Small,2021-04-10
+STR024,FreshMart Hyderabad 4,Hyderabad,Telangana,South,"29 Standalone, Hyderabad",545051,Medium,2020-11-09
+STR025,FreshMart Hyderabad 5,Hyderabad,Telangana,South,"97 Mall, Hyderabad",449405,Medium,2018-08-13
+STR026,FreshMart Kolkata 1,Kolkata,West Bengal,East,"88 High Street, Kolkata",842666,Small,2021-05-06
+STR027,FreshMart Kolkata 2,Kolkata,West Bengal,East,"49 Commercial Hub, Kolkata",890785,Small,2020-12-19
+STR028,FreshMart Kolkata 3,Kolkata,West Bengal,East,"88 Mall, Kolkata",520116,Medium,2021-10-28
+STR029,FreshMart Kolkata 4,Kolkata,West Bengal,East,"99 Standalone, Kolkata",756699,Large,2018-08-17
+STR030,FreshMart Kolkata 5,Kolkata,West Bengal,East,"21 Commercial Hub, Kolkata",875763,Medium,2018-01-07
+STR031,FreshMart Pune 1,Pune,Maharashtra,West,"65 Standalone, Pune",587330,Large,2020-11-05
+STR032,FreshMart Pune 2,Pune,Maharashtra,West,"82 Standalone, Pune",932323,Small,2021-06-01
+STR033,FreshMart Pune 3,Pune,Maharashtra,West,"48 High Street, Pune",569396,Small,2021-01-09
+STR034,FreshMart Pune 4,Pune,Maharashtra,West,"77 Mall, Pune",739902,Large,2020-09-27
+STR035,FreshMart Pune 5,Pune,Maharashtra,West,"47 Mall, Pune",722451,Small,2019-05-06
+STR036,FreshMart Ahmedabad 1,Ahmedabad,Gujarat,West,"73 High Street, Ahmedabad",482582,Small,2018-06-25
+STR037,FreshMart Ahmedabad 2,Ahmedabad,Gujarat,West,"9 Commercial Hub, Ahmedabad",958582,Large,2018-09-15
+STR038,FreshMart Ahmedabad 3,Ahmedabad,Gujarat,West,"71 Commercial Hub, Ahmedabad",573148,Small,2019-06-27
+STR039,FreshMart Ahmedabad 4,Ahmedabad,Gujarat,West,"28 Commercial Hub, Ahmedabad",965492,Large,2021-11-13
+STR040,FreshMart Ahmedabad 5,Ahmedabad,Gujarat,West,"52 Standalone, Ahmedabad",791559,Small,2020-06-16
+STR041,FreshMart Jaipur 1,Jaipur,Rajasthan,North,"16 Commercial Hub, Jaipur",659947,Large,2019-04-06
+STR042,FreshMart Jaipur 2,Jaipur,Rajasthan,North,"3 Standalone, Jaipur",980828,Small,2019-04-17
+STR043,FreshMart Jaipur 3,Jaipur,Rajasthan,North,"1 High Street, Jaipur",474441,Large,2021-12-20
+STR044,FreshMart Jaipur 4,Jaipur,Rajasthan,North,"30 Mall, Jaipur",470674,Large,2018-03-06
+STR045,FreshMart Jaipur 5,Jaipur,Rajasthan,North,"66 Mall, Jaipur",649565,Medium,2019-07-25
+STR046,FreshMart Lucknow 1,Lucknow,Uttar Pradesh,North,"28 Commercial Hub, Lucknow",965427,Large,2018-09-28
+STR047,FreshMart Lucknow 2,Lucknow,Uttar Pradesh,North,"32 Commercial Hub, Lucknow",895948,Large,2020-04-13
+STR048,FreshMart Lucknow 3,Lucknow,Uttar Pradesh,North,"13 Mall, Lucknow",851989,Small,2019-12-27
+STR049,FreshMart Lucknow 4,Lucknow,Uttar Pradesh,North,"60 Commercial Hub, Lucknow",456802,Medium,2021-10-11
+STR050,FreshMart Lucknow 5,Lucknow,Uttar Pradesh,North,"8 Mall, Lucknow",822179,Large,2019-11-26
