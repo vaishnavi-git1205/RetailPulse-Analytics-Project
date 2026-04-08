@@ -1,5 +1,5 @@
 # 🛒 RetailPulse Analytics
-> End-to-End Retail Data Analytics Project | SQL · Power BI · Tableau
+> End-to-End Retail Data Analytics Project | SQL · Power BI.tableau
 
 [![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql)](https://www.mysql.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=power-bi)](https://powerbi.microsoft.com/)
